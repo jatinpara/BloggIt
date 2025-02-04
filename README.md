@@ -101,10 +101,11 @@
 
 This section displays the homepage and footer.
 
-<div style=" gap: 10px;">
-    <img src="Screenshots\homepage.png" alt="Homepage" width="500"/>
-    <img src="Screenshots\footer.png" alt="Footer" width="500"/>
+<div style="display: flex; flex-direction: column; gap: 10px;">
+    <img src="Screenshots/homepage.png" alt="Homepage" width="500"/>
+    <img src="Screenshots/footer.png" alt="Footer" width="500"/>
 </div>
+
 
 ## BlogPage (mobile view)
 
