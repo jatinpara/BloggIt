@@ -97,13 +97,33 @@
 
 ## BloggIt Screenshots (Click the images to see them bigger)
 
+## Homepage
+
 This section displays the homepage and footer.
 
-<div style="display: flex; gap: 10px;">
+<div style=" gap: 10px;">
     <img src="Screenshots\homepage.png" alt="Homepage" width="500"/>
     <img src="Screenshots\footer.png" alt="Footer" width="500"/>
-    
 </div>
+
+## BlogPage (mobile view)
+
+This section displays the blog page in mobile view to show responsiveness.
+
+<div style=" gap: 10px;">
+    <img src="Screenshots\ResponsiveDesign1.png" alt="BlogPage1" width="500"/>
+    <img src="Screenshots\ResponsiveDesign2.png" alt="BlogPage2" width="500"/>
+</div>
+
+## Admin Pages
+
+<div style=" gap: 10px;">
+    <img src="Screenshots\admin_addBlog.png" alt="" width="500"/>
+    <img src="Screenshots\admin_bloglists.png" alt="" width="500"/>
+    <img src="Screenshots\admin_bloglists.png" alt="" width="500"/>
+</div>
+
+
 
 
 ## Skills Demonstrated
